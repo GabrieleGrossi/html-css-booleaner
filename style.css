@@ -5,8 +5,30 @@ header {
 
 .logo {
     width: 300px;
+
+
 }
 .undertitle {
     color: grey;
     font-weight: 300;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+    height: 200px;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: rgb(71, 142, 241);
+    color: white;
+}
+
+tr:nth-child(odd){
+    background-color: rgb(118, 217, 240);
+
+}
+strong{
+    color: aqua;
 }
