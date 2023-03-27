@@ -1,7 +1,11 @@
 header {
-    background-color: aqua;
+    background-image: url(foto-booleaner/pattern.png);
+    background-color: rgb(105, 105, 232);
 }
 
+.logo {
+    width: 300px;
+}
 .undertitle {
     color: grey;
     font-weight: 300;
